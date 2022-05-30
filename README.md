@@ -22,6 +22,14 @@ Practicing ReactJS Concepts with TypeScript creating the classic TODO. Everythin
 
 </br>
 
+## 🖱 Technologies
+
+- ReactJS
+- TypeScript
+- Sass
+
+</br>
+
 ## ✔ Running the application
 
 ```bash
